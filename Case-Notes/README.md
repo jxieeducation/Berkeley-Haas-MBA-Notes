@@ -7,11 +7,11 @@
 
 ### To do:
 * Robin Chase ZipCar and an innocent Discovery
-
+* Joe Casey (https://hbr.org/product/joe-casey-january-2000/801155-PDF-ENG)
 
 
 ### Done cases: 
 * Yale University Investments Office
 * ZipCar Refining the Business Model
 * Blockchain Entrepreneurship Opportunities in the Practices of the Unbanked
-
+* Business Model Analysis for Entrepreneurs

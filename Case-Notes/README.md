@@ -15,3 +15,4 @@
 * ZipCar Refining the Business Model
 * Blockchain Entrepreneurship Opportunities in the Practices of the Unbanked
 * Business Model Analysis for Entrepreneurs
+* Airbnb, Etsy, Uber: Acquiring the First Thousand Customers
